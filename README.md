@@ -5,6 +5,7 @@ goagent 3.2.1 正式版下载 [http://git.io/goa](https://nodeload.github.com/go
 
 ## 讨论区
 * https://code.google.com/p/goagent/issues/list
+
 ## 文档
 * 简易教程 https://goagent.github.io/?/wiki/SimpleGuide.md
 * 图文教程 https://goagent.github.io/?/wiki/InstallGuide.md
@@ -16,4 +17,4 @@ goagent 3.2.1 正式版下载 [http://git.io/goa](https://nodeload.github.com/go
 ## 代码
  * proxy.py https://github.com/goagent/goagent/tree/3.0
  * python27.exe https://github.com/goagent/pybuild
- * goagent.exe https://github.com/goagent/taskbar
+  goagent.exe https://github.com/goagent/taskbar
